@@ -26,10 +26,16 @@ https://www.digicert.com/digicert-root-certificates.htm
 [DigiCert Global Root CA](#digicert-global-root-ca)  
 2023-03-08
 
+## DST
+
+### DST Root CA X3
+`root-ca-x3.crt`  
+2021-09-30
+
 ## Comodo
 https://ssl.comodo.com/support/which-is-root-which-is-intermediate.php
 
 ### Comodo RSA Certification Authority
 `rsa-certification-authority.crt`  
-1/19/2038-01-19
+2038-01-19
 
