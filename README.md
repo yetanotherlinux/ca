@@ -1,3 +1,10 @@
+## cPanel
+
+### cPanel Certification Authority
+`certification-authority.crt`  
+[Comodo RSA Certification Authority](#comodo-rsa-certification-authority)  
+2025-05-18
+
 ## DigiCert
 https://www.digicert.com/digicert-root-certificates.htm
 
