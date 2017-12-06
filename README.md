@@ -1,6 +1,10 @@
 ## DigiCert
 https://www.digicert.com/digicert-root-certificates.htm
 
+### Global Root CA
+`global-root-ca.crt`  
+2031-11-10
+
 ### High Assurance EV Root CA
 `high-assurance-extended-validation-root-ca.crt`  
 2031-11-10
