@@ -49,11 +49,17 @@ https://support.globalsign.com/customer/portal/topics/538410-root-certificates/a
 `root-ca.crt`  
 2028-01-28
 
+### GlobalSign CloudSSL CA - SHA256 - G3
+`cloudssl-ca-sha256-g3.crt`  
+[GlobalSign Root CA](#globalsign-root-ca)  
+2018-04-06
+
 
 ## Let's Encrypt
 https://letsencrypt.org/certificates/
 
 ### Let's Encrypt Authority X3
 `authority-x3.crt`  
+[DST Root CA X3](#dst-root-ca-x3)  
 2021-03-17
 
