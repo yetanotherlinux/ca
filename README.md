@@ -39,3 +39,10 @@ https://ssl.comodo.com/support/which-is-root-which-is-intermediate.php
 `rsa-certification-authority.crt`  
 2038-01-19
 
+## Let's Encrypt
+https://letsencrypt.org/certificates/
+
+### Let's Encrypt Authority X3
+`authority-x3.crt`  
+2021-03-17
+
