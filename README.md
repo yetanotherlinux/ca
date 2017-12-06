@@ -10,3 +10,8 @@ https://www.digicert.com/digicert-root-certificates.htm
 [DigiCert High Assurance EV Root CA](#high-assurance-ev-root-ca)  
 2028-10-22
 
+### SHA2 Secure Server CA
+`sha2-secure-server-ca.crt`  
+[DigiCert Global Root CA](#global-root-ca)  
+2023-03-08
+
