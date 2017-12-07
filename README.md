@@ -2,8 +2,13 @@
 https://www.amazontrust.com/repository/
 
 ### Amazon Root CA 1
-`root-ca-1.cer`  
+`root-ca-1.crt`  
 2038-01-17
+
+### Amazon Server CA 1B
+`server-ca-1b.crt`  
+[Amazon Root CA 1](#amazon-root-ca-1)  
+2025-10-19
 
 
 ## Comodo
