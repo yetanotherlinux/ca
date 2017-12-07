@@ -42,6 +42,14 @@ https://www.digicert.com/digicert-root-certificates.htm
 2021-09-30
 
 
+## GeoTrust
+https://www.geotrust.com/resources/root-certificates/index.html
+
+### GeoTrust Global CA
+`global-ca.crt`  
+2022-05-21
+
+
 ## GlobalSign
 https://support.globalsign.com/customer/portal/topics/538410-root-certificates/articles
 
