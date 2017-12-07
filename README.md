@@ -49,6 +49,11 @@ https://www.geotrust.com/resources/root-certificates/index.html
 `global-ca.crt`  
 2022-05-21
 
+### GeoTrust SSL CA - G3
+`ssl-ca-g3.crt`  
+[GeoTrust Global CA](#geotrust-global-ca)  
+2022-05-21
+
 
 ## GlobalSign
 https://support.globalsign.com/customer/portal/topics/538410-root-certificates/articles
