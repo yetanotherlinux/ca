@@ -1,3 +1,11 @@
+## Amazon
+https://www.amazontrust.com/repository/
+
+### Amazon Root CA 1
+`root-ca-1.cer`  
+2038-01-17
+
+
 ## Comodo
 https://ssl.comodo.com/support/which-is-root-which-is-intermediate.php
 
