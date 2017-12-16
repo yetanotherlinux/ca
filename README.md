@@ -55,6 +55,15 @@ https://www.digicert.com/digicert-root-certificates.htm
 2021-09-30
 
 
+## Gandi
+https://wiki.gandi.net/en/ssl/intermediate
+
+### Gandi Standard SSL CA 2
+`standard-ssl-ca-2.crt`  
+[USERTrust RSA Certification Authority](#usertrust-rsa-certification-authority)  
+2024-09-11
+
+
 ## GeoTrust
 https://www.geotrust.com/resources/root-certificates/index.html
 
