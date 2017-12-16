@@ -89,3 +89,11 @@ https://letsencrypt.org/certificates/
 [DST Root CA X3](#dst-root-ca-x3)  
 2021-03-17
 
+
+## USERTrust
+https://www.tbs-certificates.co.uk/FAQ/en/27.html
+
+### USERTrust RSA Certification Authority
+`rsa-certification-authority.crt`  
+2038-01-18
+
