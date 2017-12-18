@@ -11,6 +11,14 @@ https://www.amazontrust.com/repository/
 2025-10-19
 
 
+## Baltimore
+https://www.digicert.com/digicert-root-certificates.htm
+
+### Baltimore CyberTrust Root
+`cybertrust-root.crt`  
+2025-05-12
+
+
 ## Comodo
 https://ssl.comodo.com/support/which-is-root-which-is-intermediate.php
 
