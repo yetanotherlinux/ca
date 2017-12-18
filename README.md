@@ -45,6 +45,11 @@ https://www.digicert.com/digicert-root-certificates.htm
 `high-assurance-extended-validation-root-ca.crt`  
 2031-11-10
 
+### DigiCert Baltimore CA-2 G2
+`baltimore-ca-2-g2.crt`  
+[Baltimore CyberTrust Root](#baltimore-cybertrust-root)  
+2025-05-10
+
 ### DigiCert SHA2 Extended Validation Server CA
 `sha2-extended-validation-server-ca.crt`  
 [DigiCert High Assurance EV Root CA](#digicert-high-assurance-ev-root-ca)  
