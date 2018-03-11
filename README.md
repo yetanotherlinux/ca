@@ -41,6 +41,10 @@ https://www.digicert.com/digicert-root-certificates.htm
 `global-root-ca.crt`  
 2031-11-10
 
+### DigiCert Assured ID Root CA
+`assured-id-root-ca.crt`  
+2031-11-10
+
 ### DigiCert High Assurance EV Root CA
 `high-assurance-extended-validation-root-ca.crt`  
 2031-11-10
@@ -110,6 +114,15 @@ https://letsencrypt.org/certificates/
 `authority-x3.crt`  
 [DST Root CA X3](#dst-root-ca-x3)  
 2021-03-17
+
+
+## Terena
+https://www.terena.org/
+
+### Terena SSL CA 3
+`ssl-ca-3.crt`  
+[DigiCert Assured ID Root CA](#digicert-assured-id-root-ca)  
+2024-11-18
 
 
 ## USERTrust
