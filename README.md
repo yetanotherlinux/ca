@@ -104,7 +104,7 @@ https://support.globalsign.com/customer/portal/topics/538410-root-certificates/a
 ### GlobalSign CloudSSL CA - SHA256 - G3
 `cloudssl-ca-sha256-g3.crt`  
 [GlobalSign Root CA](#globalsign-root-ca)  
-2018-04-06
+2025-08-19
 
 
 ## Let's Encrypt
